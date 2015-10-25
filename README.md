@@ -1,4 +1,4 @@
-*Berkeley-Course-Parsing-Scripts
+# Berkeley-Course-Parsing-Scripts
 
 Since Berkeley does not support an API to fetch course information,
 I've devised these set of scripts to grab data from the course pages
